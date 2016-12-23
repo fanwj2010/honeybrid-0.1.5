@@ -1,0 +1,6 @@
+honeybrid-mod_dionaea.o: mod_dionaea.c /usr/include/stdc-predef.h \
+ ../config.h
+
+/usr/include/stdc-predef.h:
+
+../config.h:
